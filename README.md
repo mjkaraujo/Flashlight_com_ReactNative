@@ -5,6 +5,7 @@
 ![imgAcesa](https://user-images.githubusercontent.com/86981163/176334438-b9bb0313-b6c2-47b6-876c-e323fe86a650.jpeg)
 
 Estudo de React Native ministrado pela DIO
+Projeto desenvolvido em vsCode + Expo React Native
 
 # Conteúdo:
 - Bibliotecas
